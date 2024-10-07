@@ -1,0 +1,4 @@
+.bundle/
+a.out
+dump.vcd
+*.html
