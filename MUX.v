@@ -1,5 +1,6 @@
 module mux4x1 (
-    input wire [3:0] sw, 
-    output wire led0     
+   input [3:0] f1;
+   input [3:0] f2;
+   input [3:0] f3;
+   input [3:0] f4;
 );
-  
