@@ -26,6 +26,9 @@ module test();
             end
             #5;
         end
+
+        $display("Your circutit has passed!");
+        $finish;
     end
 
 endmodule
